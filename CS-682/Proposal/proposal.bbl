@@ -1,0 +1,39 @@
+\begin{thebibliography}{1}
+
+\bibitem{mozillaDeepSpeechATensorFlowimplementationofBaidusDeepSpeecharchitecture-2018-10-04}
+Deepspeech: A tensorflow implementation of baidu's deepspeech architecture.
+\newblock \url{https://github.com/mozilla/DeepSpeech}.
+
+\bibitem{Gutenberg-2018-10-04}
+Gutenberg.
+\newblock \url{https://www.gutenberg.org/wiki/Main_Page}.
+
+\bibitem{LearningAllyJoinLearningAllyAudiobookSubscriptionMembership-2018-10-04}
+Learning ally - audiobook subscription.
+\newblock \url{https://learningally.org/Adults/Join}.
+
+\bibitem{LibriVoxfreepublicdomainaudiobooks-2018-10-04}
+Librivox | free public domain audiobooks.
+\newblock \url{https://librivox.org/}.
+
+\bibitem{TensorFlow-2018-08-08}
+Tensorflow.
+\newblock \url{https://www.tensorflow.org/}.
+
+\bibitem{WhispersyncforVoiceAudiblecom-2018-10-04}
+Whispersync for voice | audible.com.
+\newblock \url{https://www.audible.com/ep/wfs}.
+
+\bibitem{DBLP:journals/corr/HannunCCCDEPSSCN14}
+Awni~Y. Hannun, Carl Case, Jared Casper, Bryan Catanzaro, Greg Diamos, Erich
+  Elsen, Ryan Prenger, Sanjeev Satheesh, Shubho Sengupta, Adam Coates, and
+  Andrew~Y. Ng.
+\newblock Deep speech: Scaling up end-to-end speech recognition.
+\newblock {\em CoRR}, abs/1412.5567, 2014.
+
+\bibitem{DBLP:journals/corr/KingmaB14}
+Diederik~P. Kingma and Jimmy Ba.
+\newblock Adam: {A} method for stochastic optimization.
+\newblock {\em CoRR}, abs/1412.6980, 2014.
+
+\end{thebibliography}

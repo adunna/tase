@@ -1,0 +1,65 @@
+This is BibTeX, Version 0.99d (TeX Live 2017/Debian)
+Capacity: max_strings=100000, hash_size=100000, hash_prime=85009
+The top-level auxiliary file: proposal.aux
+The style file: plain.bst
+Database file #1: refs.bib
+Warning--entry type for "Gutenberg-2018-10-04" isn't style-file defined
+--line 1 of file refs.bib
+Warning--entry type for "WhispersyncforVoiceAudiblecom-2018-10-04" isn't style-file defined
+--line 10 of file refs.bib
+Warning--entry type for "LearningAllyJoinLearningAllyAudiobookSubscriptionMembership-2018-10-04" isn't style-file defined
+--line 19 of file refs.bib
+Warning--entry type for "LibriVoxfreepublicdomainaudiobooks-2018-10-04" isn't style-file defined
+--line 28 of file refs.bib
+Warning--entry type for "mozillaDeepSpeechATensorFlowimplementationofBaidusDeepSpeecharchitecture-2018-10-04" isn't style-file defined
+--line 37 of file refs.bib
+Warning--entry type for "TensorFlow-2018-08-08" isn't style-file defined
+--line 46 of file refs.bib
+Warning--to sort, need author or key in WhispersyncforVoiceAudiblecom-2018-10-04
+Warning--to sort, need author or key in LearningAllyJoinLearningAllyAudiobookSubscriptionMembership-2018-10-04
+Warning--to sort, need author or key in Gutenberg-2018-10-04
+Warning--to sort, need author or key in LibriVoxfreepublicdomainaudiobooks-2018-10-04
+Warning--to sort, need author or key in mozillaDeepSpeechATensorFlowimplementationofBaidusDeepSpeecharchitecture-2018-10-04
+Warning--to sort, need author or key in TensorFlow-2018-08-08
+You've used 8 entries,
+            2118 wiz_defined-function locations,
+            533 strings with 5464 characters,
+and the built_in function-call counts, 1741 in all, are:
+= -- 156
+> -- 77
+< -- 0
++ -- 34
+- -- 26
+* -- 95
+:= -- 257
+add.period$ -- 18
+call.type$ -- 8
+change.case$ -- 37
+chr.to.int$ -- 0
+cite$ -- 14
+duplicate$ -- 62
+empty$ -- 173
+format.name$ -- 26
+if$ -- 384
+int.to.chr$ -- 0
+int.to.str$ -- 8
+missing$ -- 2
+newline$ -- 37
+num.names$ -- 4
+pop$ -- 63
+preamble$ -- 1
+purify$ -- 29
+quote$ -- 0
+skip$ -- 65
+stack$ -- 0
+substring$ -- 40
+swap$ -- 8
+text.length$ -- 0
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 32
+warning$ -- 6
+while$ -- 4
+width$ -- 9
+write$ -- 66
+(There were 12 warnings)
