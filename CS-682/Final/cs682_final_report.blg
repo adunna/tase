@@ -1,0 +1,51 @@
+This is BibTeX, Version 0.99d (TeX Live 2017/Debian)
+Capacity: max_strings=100000, hash_size=100000, hash_prime=85009
+The top-level auxiliary file: cs682_final_report.aux
+The style file: ieee.bst
+Database file #1: egbib.bib
+Warning--I didn't find a database entry for "https://support.google.com/accessibility/android/answer/6283677?hl=en"
+Warning--I didn't find a database entry for "https://cloud.google.com/text-to-speech/"
+Warning--I didn't find a database entry for "https://www.readbeyond.it/aeneas/"
+Warning--I didn't find a database entry for "https://hacks.mozilla.org/2017/11/a-journey-to-10-word-error-rate/"
+You've used 1 entry,
+            2120 wiz_defined-function locations,
+            510 strings with 4074 characters,
+and the built_in function-call counts, 385 in all, are:
+= -- 37
+> -- 18
+< -- 0
++ -- 7
+- -- 6
+* -- 34
+:= -- 70
+add.period$ -- 3
+call.type$ -- 1
+change.case$ -- 6
+chr.to.int$ -- 0
+cite$ -- 1
+duplicate$ -- 11
+empty$ -- 28
+format.name$ -- 6
+if$ -- 74
+int.to.chr$ -- 0
+int.to.str$ -- 1
+missing$ -- 1
+newline$ -- 8
+num.names$ -- 2
+pop$ -- 4
+preamble$ -- 1
+purify$ -- 5
+quote$ -- 0
+skip$ -- 7
+stack$ -- 0
+substring$ -- 30
+swap$ -- 1
+text.length$ -- 0
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 4
+warning$ -- 0
+while$ -- 4
+width$ -- 2
+write$ -- 13
+(There were 4 warnings)

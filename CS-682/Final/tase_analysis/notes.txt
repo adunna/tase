@@ -1,0 +1,27 @@
+REVERT SYNC TIME TIMEOUT THING
+
+-optimal audio w/ text used:
+--clip_size = 25, match_percent = 0.8, clip_movement = 3
+--confidence not shown for non converged trials, bc if engine didn't find answer, then it is 100% confident that it didnt find an answer
+
+clip factor = clip size * clip movement
+--defines how we chunk the data
+
+distance vs. clip factor
+
+distance vs. confidence
+--we want to see if more confident responses tend to be more accurate
+--define "acceptable distance" as being a distance of 4 words or less from the actual word, or 4 seconds or less from the actual timestamp
+--in general, we see the trend that lower distances (more accurate) corresopnd with higher confidence, which is good because it means we can "trust" the response, so in a deployed application, if the confidence is low then we may want to tweak parameters and try again
+
+sync time vs. clip factor
+--1. see time needed to sync on average, 2. see how sync time corresponds with clip factor and match percent, 3. see how "optimal range for clip factor" (50 to 90 for AwT, 90 to 150 for TwA, suggests better to use different parameters depending on direction of conversion) and optimal match percent interacts with sync time
+--higher match percent means higher sync time
+--optimal clip factor range gives pretty good average sync time range of about 3.5 to 4 seconds
+--only using "acceptable results"
+
+--overall: given some arbitrary input, how long does take
+--then do overall with variety of data points for sync time
+
+other opt methods
+-can cache audio to text conversions
